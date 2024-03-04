@@ -79,3 +79,5 @@ function accessDeniedJson(): array
     ];
 }
 ```
+
+Не забудьте подключить файл `core.php` в `functions.php`.
